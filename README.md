@@ -1,7 +1,4 @@
 # 📊 Walmart Store Sales Analysis and Forecasting
-
-![Walmart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1200px-Walmart_logo.svg.png)
-
 ## 📝 Description
 This project focuses on analyzing Walmart store sales and forecasting future sales using machine learning techniques. Using the "Walmart Recruiting - Store Sales Forecasting" dataset available on Kaggle, we will explore sales trends, identify key factors influencing sales, and build predictive models to improve business decision-making.
 
